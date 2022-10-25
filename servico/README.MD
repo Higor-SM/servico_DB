@@ -1,7 +1,3 @@
-# Um serviço web simples para inserção e listagem de itens em um banco de dados relacional (MariaDB/MySQL). Utiliza o framework TypeORM.
-
-# Autor: Fabrício G. M. de Carvalho, Ph. D
-
 Para executar o sistema:
 
 1. Execute o servidor de banco de dados localmente e crie uma base de dados denominada web_orm_insert_ts.
